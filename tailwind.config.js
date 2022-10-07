@@ -8,7 +8,8 @@ module.exports = {
       colors: {
         "header-dark-bg": "#20232a",
         "react-blue":"#61dafb",
-        "beta-header": "#16181d"
+        "beta-header": "#16181d",
+        "dark-main": "#282c34"
       }
     },
   },

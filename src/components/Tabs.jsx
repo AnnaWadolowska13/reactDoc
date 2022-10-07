@@ -2,10 +2,10 @@ import React from "react";
 
 function Tabs(){
     return (
-        <div>
-            <span className="mr-5">Docs</span>
-            <span className="mr-5">Tutorial</span>
-            <span className="mr-5">Blog</span>
+        <div className="text-lg font-light">
+            <span className="px-5">Docs</span>
+            <span className="px-5">Tutorial</span>
+            <span className="px-5">Blog</span>
             <span>Community</span>
 
         </div>

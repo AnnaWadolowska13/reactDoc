@@ -5,7 +5,7 @@ function Logo(){
     return (
     <p className="w-10 flex" >
         <img src={logo} alt="logo" />
-        <span className="text-react-blue font-bold text-lg">React</span>
+        <span className="text-react-blue font-bold text-xl">React</span>
     </p>)
 }
 
