@@ -7,7 +7,7 @@ import Info from "./Info";
 
 function Header(){
     return (
-    <header className="h-16 bg-header-dark-bg text-white flex items-center justify-around" >
+    <header className="h-16 bg-header-dark-bg text-white flex items-center justify-around px-4" >
         <Logo/>
         <Tabs/>
         <SearchBar/>
